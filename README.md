@@ -18,7 +18,7 @@ $ pnpm install @nestjs/platform-socket.io
 ```bash
 # first install vitejs react app and install socket.io-client package 
 
-$ pnpm create vite my-vue-app 
+$ pnpm create vite@latest react-websocket-app 
 $ pnpm install socket.io-client
 
 ```
